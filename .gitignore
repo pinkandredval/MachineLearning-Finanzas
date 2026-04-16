@@ -1,0 +1,11 @@
+# Ignorar el dataset pesado
+data/flights_2015_full.csv
+
+# Ignorar archivos temporales de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Si usas entornos virtuales
+venv/
+.env
